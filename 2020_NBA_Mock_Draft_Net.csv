@@ -1,0 +1,62 @@
+Pick Number,Team,Player,Height,Weight,Position,School ,Class
+1, New York,Anthony Edwards,5-Jun,225,SG,Georgia,Fr.
+2, Cleveland,James Wiseman,1-Jul,235,C,Memphis,Fr.
+3, Phoenix,LaMelo Ball,6-Jun,180,PG,USA,Intl.
+4, Chicago,Patrick Williams,7-Jun,215,SF/PF,Florida St.,Fr.
+5, Atlanta,Obi Toppin,9-Jun,220,PF,Dayton,So.
+6, Washington,Onyeka Okongwu,9-Jun,235,PF/C,USC,Fr.
+7, New Orleans,Deni Avdija,9-Jun,210,SF,Israel,Intl.
+8, Memphis,Tyrese Haliburton,5-Jun,185,PG,Iowa St.,So.
+9, Dallas,Isaac Okoro,6-Jun,215,SG/SF,Auburn,Fr.
+10, Minnesota,Kira Lewis,3-Jun,170,PG,Alabama,So.
+11, LA Lakers,Devin Vassell,7-Jun,200,SG,Florida St.,So.
+12, Charlotte,Saddiq Bey,8-Jun,215,SF,Villanova,So.
+13, Miami,Jalen Smith,10-Jun,220,PF,Maryland,So.
+14, Sacramento,Killian Hayes,5-Jun,195,PG,France,Intl.
+15, Detroit,Cole Anthony,3-Jun,185,PG,North Carolina,Fr.
+16, Orlando,Precious Achiuwa,9-Jun,235,SF/PF,Memphis,Fr.
+17, Brooklyn,Jaden McDaniels,10-Jun,200,PF,Washington,Fr.
+18, Indiana,Tyrell Terry,3-Jun,170,PG,Stanford,Fr.
+19, San Antonio,RJ Hampton,4-Jun,175,PG/SG,USA,Intl.
+20, LA Clippers,Tyrese Maxey,3-Jun,200,SG,Kentucky,Fr.
+21, Oklahoma Cty,Desmond Bane,6-Jun,220,SG,TCU,Sr.
+22, Boston,Theo Maledon,5-Jun,185,PG,France,Intl.
+23, Utah,Josh Green,6-Jun,215,SG,Arizona,Fr.
+24, Philadelphia,Vernon Carey,10-Jun,270,PF/C,Duke,Fr.
+25, Portland,Aleksej Pokusevski,Jul-00,190,C,Serbia,Intl.
+26, Houston,Aaron Nesmith,6-Jun,215,SG/SF,Vanderbilt,So.
+27, Denver,Malachi Flynn,2-Jun,185,PG,San Diego St.,Jr.
+28, Golden St.,Tyler Bey,7-Jun,215,PF,Colorado,Jr.
+29, Toronto,Devon Dotson,2-Jun,185,PG,Kansas,So.
+30, Milwaukee,Isaiah Joe,4-Jun,170,SG,Arkansas,So.
+#,Team,Player,H,W,P,School,C
+31, New York,Leandro Bolmaro,6-Jun,180,PG/SG,Argentina,Intl.
+32, Cleveland,Zeke Nnaji,11-Jun,245,PF/C,Arizona,Fr.
+33, Phoenix,Jahmius Ramsey,4-Jun,195,SG,Texas Tech,Fr.
+34, Chicago,Daniel Oturu,10-Jun,240,C,Minnesota,So.
+35, Atlanta,Nico Mannion,3-Jun,190,PG,Arizona,Fr.
+36, Washington,Elijah Hughes,6-Jun,230,SG,Syracuse,Jr.
+37, New Orleans,Payton Pritchard,2-Jun,195,PG,Oregon,Sr.
+38, Memphis,Reggie Perry,9-Jun,250,PF/C,Mississippi St.,So.
+39, Dallas,Isaiah Stewart,8-Jun,245,PF/C,Washington,Fr.
+40, Minnesota,Cassius Stanley,6-Jun,200,SG,Duke,Fr.
+41, LA Lakers,Paul Reed,10-Jun,220,PF/C,DePaul,Jr.
+42, Charlotte,Immanuel Quickley,3-Jun,185,PG/SG,Kentucky,So.
+43, Miami,Udoka Azubuike,11-Jun,260,C,Kansas,Sr.
+44, Sacramento,Markus Howard,11-May,170,PG,Marquette,Sr.
+45, Detroit,Nick Richards,Jul-00,240,C,Kentucky,Jr.
+46, Orlando,Karim Mane,6-Jun,195,SG,Canada,So.
+47, Brooklyn,Abdoulaye N'Doye,7-Jun,200,PG/SG,France,Intl.
+48, Indiana,Tre Jones,2-Jun,185,PG,Duke,So.
+49, San Antonio,Jordan Nwora,7-Jun,225,SF,Louisville,Jr.
+50, LA Clippers,Nate Hinton,5-Jun,210,SG/SF,Houston,So.
+51, Oklahoma Cty,Marko Simonovic,Jul-00,215,PF/C,Montenegro,Intl.
+52, Boston,Lamar Stevens,7-Jun,230,SF/PF,Penn State,Sr.
+53, Utah,Yam Madar,3-Jun,180,PG,Israel,Intl.
+54, Philadelphia,Jay Scrubb,6-Jun,185,SG,JUCO,So.
+55, Portland,Cassius Winston,2-Jun,195,PG,Michigan St.,Sr.
+56, Houston,Omer Yurtseven,Jul-00,275,C,Georgetown,Jr.
+57, Denver,Ashton Hagans,3-Jun,195,PG,Kentucky,So.
+58, Golden St.,Naji Marshall,7-Jun,235,PG/SG,Xavier,Jr.
+59, Toronto,Yoeli Childs,7-Jun,225,PF,BYU,Sr.
+60, Milwaukee,Robert Woodard,7-Jun,230,SF,Mississippi St.,So.

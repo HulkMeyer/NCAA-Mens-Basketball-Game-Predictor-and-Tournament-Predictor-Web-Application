@@ -1,0 +1,61 @@
+#,Team,Player,H,W,P,School,C
+1, *Utah,AJ Dybantsa,9-Jun,210,SF,BYU,Fr.
+2, *Washington,Darryn Peterson,5-Jun,195,PG/SG,Kansas,Fr.
+3, Charlotte,Cameron Boozer,9-Jun,235,PF,Duke,Fr.
+4, New Orleans,Tyran Stokes,7-Jun,245,SF,Undecided,HSJr.
+5, *Philadelphia,Chris Cenac,11-Jun,230,PF/C,Houston,Fr.
+6, Brooklyn,Caleb Wilson,9-Jun,205,PF,North Carolina,HSSr.
+7, Toronto,Nate Ament,9-Jun,185,SF/PF,Tennessee,Fr.
+8, San Antonio,Boogie Fland,3-Jun,175,PG,Florida,So.
+9, Phoenix,Alijah Arenas,6-Jun,195,SG,USC,Fr.
+10, *Portland,Jayden Quaintance,9-Jun,230,PF,Kentucky,Fr.
+11, Miami,Isaiah Evans,6-Jun,175,SG/SF,Duke,Fr.
+12, Dallas,Mikel Brown,3-Jun,170,PG,Louisville,Fr.
+13, *Chicago,Labaron Philon,4-Jun,175,PG,Alabama,Fr.
+14, Sacramento,Tahaad Pettiford,1-Jun,170,PG,Auburn,Fr.
+15, Atlanta,Ian Jackson,5-Jun,180,SG,St. Johns,So.
+16, Orlando,Dash Daniels,6-Jun,200,PG/SG,Australia,Intl.
+17, Detroit,Miles Byrd,6-Jun,180,SG,San Diego St.,So.
+18, Golden St.,Karim Lopez,8-Jun,210,SF/PF,Mexico,Intl.
+19, Memphis,Kam Williams,8-Jun,190,SG/SF,Kentucky,Fr.
+20, Milwaukee,Tounde Yessoufou,6-Jun,210,SF,Baylor,HSSr.
+21, Minnesota,Solo Ball,4-Jun,190,SG,UConn,So.
+22, LA Lakers,Meleek Thomas,4-Jun,180,PG/SG,Arkansas,HSSr.
+23, Indiana,JT Toppin,8-Jun,225,PF/C,Texas Tech,So.
+24, Denver,Yaxel Lendeborg,10-Jun,235,PF/C,Michigan,Sr.
+25, LA Clippers,Miikka Muurinen,11-Jun,185,PF,Finland,HSJr.
+26, New York,Karter Knox,6-Jun,215,SF,Arkansas,Fr.
+27, Houston,Darren Harris,6-Jun,205,SG/SF,Duke,Fr.
+28, Boston,Thomas Haugh,9-Jun,210,SF,Florida,So.
+29, Cleveland,Joson Sanon,5-Jun,195,SG,St. Johns,Fr.
+30, Oklahoma Cty,Tyler Harris,8-Jun,190,SF,Washington,So.
+31, Utah,Jaland Lowe,3-Jun,170,PG,Kentucky,So.
+32, Washington,Robert Wright,1-Jun,165,PG,BYU,So.
+33, Charlotte,Tyrone Riley,6-Jun,190,SG/SF,USF,Fr.
+34, New Orleans,Jacob Cofie,10-Jun,230,SF/PF,USC,So.
+35, Philadelphia,Bennett Stirtz,4-Jun,180,PG,Iowa,Sr.
+36, Brooklyn,Baye Ndongo,9-Jun,225,PF/C,Georgia Tech,So.
+37, Toronto,Michael Ruzic,Jul-00,220,PF,Croatia,Intl.
+38, San Antonio,Milos Uzan,4-Jun,185,PG/SG,Houston,Jr.
+39, Phoenix,Dame Sarr,5-Jun,190,SG,Duke,Intl.
+40, Portland,Joseph Tugler,7-Jun,230,PF/C,Houston,So.
+41, Miami,Jaron Pierre,6-Jun,200,SG,SMU,Sr.
+42, Dallas,Donnie Freeman,9-Jun,200,SF/PF,Syracuse,Fr.
+43, Chicago,Hudson Greer,6-Jun,190,SG/SF,Creighton,HSSr.
+44, Sacramento,Amarion Dickerson,7-Jun,190,SF,USC,Sr.
+45, Atlanta,DJ Wagner,4-Jun,190,PG/SG,Arkansas,So.
+46, Orlando,Andrej Stojakovic,7-Jun,190,SG/SF,Illinois,So.
+47, Detroit,Jalil Bethea,4-Jun,170,PG/SG,Miami,Fr.
+48, Golden St.,Henri Veesaar,Jul-00,220,PF,North Carolina,Jr.
+49, Memphis,Nate Bittle,Jul-00,215,C,Oregon,Sr.
+50, Milwaukee,Jackson Shelstad,Jun-00,170,PG,Oregon,So.
+51, Minnesota,Mackenzie Mgbako,9-Jun,215,SF/PF,Texas A&M,So.
+52, LA Lakers,Zuby Ejiofor,9-Jun,240,PF/C,St. Johns,Jr.
+53, Indiana,Tarris Reed,8-Jun,220,C,UConn,Jr.
+54, Denver,Cameron Carr,6-Jun,180,SG,Baylor,So.
+55, LA Clippers,Zvonimir Ivisic,2-Jul,235,C,Illinois,So.
+56, New York,Jevon Porter,11-Jun,220,PF,Pepperdine,Jr.
+57, Houston,Alex Karaban,8-Jun,220,SF,UConn,So.
+58, Boston,Dailyn Swain,6-Jun,220,SF,Xavier,So.
+59, Cleveland,Xaivian Lee,4-Jun,165,PG/SG,Florida,Sr.
+60, Oklahoma Cty,JJ Starling,4-Jun,205,PG,Syracuse,Jr.
